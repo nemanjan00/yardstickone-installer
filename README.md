@@ -1,5 +1,7 @@
 # yardstickone-installer
 
+Container for compiling rfcat firmware and for flashing it
+
 ## Table of contents
 
 <!-- vim-markdown-toc GFM -->
